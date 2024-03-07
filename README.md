@@ -4,7 +4,7 @@
 
 <P>Ao construir este repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
 
-# :hammer: Funcionalidades aprendindas
+# :hammer: Funcionalidades aprendidas
 
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
